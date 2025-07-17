@@ -42,6 +42,7 @@ class AudioService:
             'noplaylist': True,
             'quiet': True,
             'no_warnings': True,
+            'cookiefile': r'C:\Users\ananya gupta\Downloads\cookies.txt'
         }
         
         try:
